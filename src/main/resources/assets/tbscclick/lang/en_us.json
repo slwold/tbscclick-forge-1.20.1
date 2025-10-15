@@ -1,10 +1,9 @@
 {
-  "key.tbscclick.toggleright": "Auto-Click Right Mouse Button",
-  "key.tbscclick.toggleleft": "Auto-Click Left Mouse Button",
+  "key.categories.tbscclick": "TbscClick",
+  "key.tbscclick.toggleright": "Auto Right Click",
+  "key.tbscclick.toggleleft": "Auto Left Click",
   "key.tbscclick.togglesmartattack": "Toggle Smart Attack",
-  "key.tbscclick.toggleholdleft": "Hold Left Mouse Button",
-  "key.tbscclick.toggleholdright": "Hold Right Mouse Button",
-  "key.tbscclick.speed": "Change auto clicking speed",
-
-  "key.categories.tbscclick": "TbscClick"
+  "key.tbscclick.toggleholdright": "Hold Right Click",
+  "key.tbscclick.speed": "Adjust Click Speed",
+  "key.tbscclick.crouch": "Auto Crouch"
 }
